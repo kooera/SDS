@@ -1,0 +1,5 @@
+﻿<parameters>
+  <parameter name="参数 1" description="安装应用程序的完整目标站点路径，例如 Default Web Site/Application。" defaultValue="CITest" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="iisApp" match="CITest" />
+  </parameter>
+</parameters>
